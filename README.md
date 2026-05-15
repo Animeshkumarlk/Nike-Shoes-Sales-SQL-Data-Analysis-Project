@@ -8,7 +8,7 @@ This is a complete, real-world SQL Data Analyst portfolio project based on a Nik
 
 The objective of this project is to simulate a real business scenario where analysts work with raw sales data to extract insights and support decision-making.
 
-Using SQL, this project covers:
+Using SQL, this project covers:-
 
 ✅ Database and table creation
 
