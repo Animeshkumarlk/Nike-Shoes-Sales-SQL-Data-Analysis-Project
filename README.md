@@ -1,6 +1,6 @@
 # Nike Sales SQL Data Analysis Project
 
-This is a complete, real-world SQL Data Analyst portfolio project based on a Nike product sales dataset. The project simulates how data analysts work in e-commerce and retail industries by performing data exploration, data cleaning, and business-focused analysis using SQL and PostgreSQL.
+This is a complete, real-world SQL Data Analyst project based on a Nike product sales dataset. The project simulates how data analysts work in e-commerce and retail industries by performing data exploration, data cleaning, and business-focused analysis using SQL and PostgreSQL.
 
 ---
 
